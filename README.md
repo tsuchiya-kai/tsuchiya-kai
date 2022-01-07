@@ -1,4 +1,4 @@
-<div style="background-image: url(images/black_eye_patch.jpeg); padding-top:10px">
+<div class="test" style="background-image: url(images/black_eye_patch.jpeg); padding-top:10px">
 <section style="color:#000; background-color:rgba(255,255,255,0.8); margin:0 auto; padding:10px;border-radius:10px; width:95%;">
 <h2>Hi there 👋</h2>
 <p>I'm working as a web developer in Shibuya.</p>
