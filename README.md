@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <p>I'm working as a web developer in Shibuya.</p>
-<p style="position:relative; display:inline-block; padding-right:18px;">I'm in charge of frontend, and recently I've been loving React!
-<img style="width:16px; height:17px; position:absolute; top:0;bottom:0;right:0;margin:auto;"  src="images/react-icon.svg" />
+<p class="icon-wrap">I'm in charge of frontend, and recently I've been loving React!
+<img class="icon"  src="images/react-icon.svg" />
 </p>
 
 <br />
@@ -37,3 +37,21 @@
   </a>
 </p>
  -->
+
+ <style>
+.icon-wrap {
+  position:relative; 
+  display:inline-block; 
+  padding-right:18px;
+}
+
+.icon-wrap > .icon {
+  width:16px; 
+  height:17px; 
+  position:absolute; 
+  top:0;
+  bottom:0;
+  right:0;
+  margin:auto;
+}
+</style>
