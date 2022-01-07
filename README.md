@@ -1,4 +1,4 @@
-<div class="test" style="background-image: url(images/black_eye_patch.jpeg); padding-top:10px">
+<section class="test" style="background-image: url(images/black_eye_patch.jpeg); padding-top:10px">
 <section style="color:#000; background-color:rgba(255,255,255,0.8); margin:0 auto; padding:10px;border-radius:10px; width:95%;">
 <h2>Hi there 👋</h2>
 <p>I'm working as a web developer in Shibuya.</p>
@@ -30,15 +30,4 @@
 [![](https://raw.githubusercontent.com/tsuchiya-kai/tsuchiya-kai/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tsuchiya-kai/tsuchiya-kai/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tsuchiya-kai/tsuchiya-kai/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tsuchiya-kai/tsuchiya-kai/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!--
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tsuchiya-kai">
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-  </a>
-</p>
- -->
-</div>
+</section>
