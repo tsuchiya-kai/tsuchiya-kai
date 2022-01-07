@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**tsuchiya-kai/tsuchiya-kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="http://twitter.com/kaichan_2828">
+    <img height="20" src="https://img.shields.io/twitter/follow/kaichan_2828?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/genki28">
+    <img height="20" src="https://img.shields.io/github/followers/genki28?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/tsuchiya_kaita">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tsuchiya_kaita/posts.svg" />
+  </a>
+  <//qiita.com/tsuchiya_kaita">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tsuchiya_kaita/contributions.svg" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tsuchiya-kai">
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  </a>
+</p>
