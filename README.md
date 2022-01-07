@@ -37,21 +37,3 @@
   </a>
 </p>
  -->
-
- <style>
-.icon-wrap {
-  position:relative; 
-  display:inline-block; 
-  padding-right:18px;
-}
-
-.icon-wrap > .icon {
-  width:16px; 
-  height:17px; 
-  position:absolute; 
-  top:0;
-  bottom:0;
-  right:0;
-  margin:auto;
-}
-</style>
