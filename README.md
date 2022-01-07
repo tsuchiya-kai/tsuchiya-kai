@@ -1,3 +1,4 @@
+<div>
 <section class="test" style="background-image: url(images/black_eye_patch.jpeg); padding-top:10px">
 <section style="color:#000; background-color:rgba(255,255,255,0.8); margin:0 auto; padding:10px;border-radius:10px; width:95%;">
 <h2>Hi there 👋</h2>
@@ -31,3 +32,4 @@
 [![](https://raw.githubusercontent.com/tsuchiya-kai/tsuchiya-kai/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tsuchiya-kai/tsuchiya-kai/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </section>
+</div>
