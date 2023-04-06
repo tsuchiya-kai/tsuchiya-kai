@@ -1,6 +1,7 @@
 
 ## Hi there 👋
 I'm working as a web developer in Tokyo.
+
 I'm in charge of frontend, and recently I've been loving React!⚛️
 
 <p>
